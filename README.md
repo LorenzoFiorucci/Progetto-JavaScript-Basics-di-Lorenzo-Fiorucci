@@ -39,3 +39,8 @@ This counter was made by Lorenzo Fiorucci - [@Lorenzo_Fiorucci_linkedin](https:/
 
 Project Link: [https://github.com/lorenzofiorucci/Progetto-JavaScript-Basics-di-Lorenzo-Fiorucci](https://github.com/lorenzofiorucci/Progetto-JavaScript-Basics-di-Lorenzo-Fiorucci)
 
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [Recordit](https://recordit.co/)
+
