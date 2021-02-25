@@ -1,12 +1,6 @@
 # Progetto-JavaScript-Basics-di-Lorenzo-Fiorucci
 JavaScript Basics project by Lorenzo Fiorucci - Realization of a counter using Javascript
 
-- [Getting Started](#Getting-Started)
-- [Description](##Description)
-- [Prerequisites and Installation](###Prerequisites-and-Installation)
-- [Usage](###Usage)
-- [Authors](##Authors)
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
