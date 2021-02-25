@@ -13,7 +13,7 @@ JavaScript Basics project by Lorenzo Fiorucci - Realization of a counter using J
       </ul>
     </li>
     <li><a href="#Usage">Usage</a></li>
-    <li><a href="#Authors">Roadmap</a></li>
+    <li><a href="#Authors">Authors</a></li>
   </ol>
 </details>
 
