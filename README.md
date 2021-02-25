@@ -18,7 +18,7 @@ There are no particular prerequisites or installation to do; to run the program 
 ### Usage
 Once the program is launched, just press the + or - button to update the count. You will be able to see the change in the count in real time!
 
-![prova](http://g.recordit.co/8Y9BEMcKaJ.gif)
+![usage-example](http://g.recordit.co/wK5xKXIxzx.gif)
 
 ## Authors
 This counter was made by Lorenzo Fiorucci - 
