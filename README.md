@@ -18,6 +18,10 @@ There are no particular prerequisites or installation to do; to run the program 
 ### Usage
 Once the program is launched, just press the + or - button to update the count. You will be able to see the change in the count in real time!
 
+<p align="center">
+  <img width="460" height="300" src="http://g.recordit.co/wK5xKXIxzx.gif">
+</p>
+
 <img align="center" src="http://g.recordit.co/wK5xKXIxzx.gif">
 
 ![usage-example](http://g.recordit.co/wK5xKXIxzx.gif)
