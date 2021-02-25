@@ -1,15 +1,17 @@
 let count = 0;
 let countElement = document.getElementById("count");
+let buttonMinus = document.getElementById("minus");
+let buttonPlus = document.getElementById("plus");
 updateCounter();
 
-function plus(){
-  count++;
+buttonMinus.onclick = function(){
+  count--;
   countElement.value = count;
   updateCounter();
 }
 
-function minus(){
-  count--;
+buttonPlus.onclick = function(){
+  count++;
   countElement.value = count;
   updateCounter();
 }
