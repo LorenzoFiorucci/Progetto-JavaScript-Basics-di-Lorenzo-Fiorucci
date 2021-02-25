@@ -35,7 +35,7 @@ Once the program is launched, just press the + or - button to update the count. 
 
 
 ## Authors
-This counter was made by Lorenzo Fiorucci - [@linkedin_handle](https://www.linkedin.com/in/lorenzo-fiorucci-15250716a) - lorenzofiorucci92@gmail.com
+This counter was made by Lorenzo Fiorucci - [@LorenzoFiorucci\linkedin](https://www.linkedin.com/in/lorenzo-fiorucci-15250716a) - lorenzofiorucci92@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/lorenzofiorucci/Progetto-JavaScript-Basics-di-Lorenzo-Fiorucci)
+Project Link: [https://github.com/lorenzofiorucci/Progetto-JavaScript-Basics-di-Lorenzo-Fiorucci](https://github.com/lorenzofiorucci/Progetto-JavaScript-Basics-di-Lorenzo-Fiorucci)
 
