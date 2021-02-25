@@ -6,13 +6,11 @@ updateCounter();
 
 buttonMinus.onclick = function(){
   count--;
-  countElement.value = count;
   updateCounter();
 }
 
 buttonPlus.onclick = function(){
   count++;
-  countElement.value = count;
   updateCounter();
 }
 
