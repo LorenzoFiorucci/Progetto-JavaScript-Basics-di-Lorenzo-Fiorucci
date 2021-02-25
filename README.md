@@ -34,7 +34,7 @@ The only thing is that it might not work best on Internet Explorer search engine
 Once the program is launched, just press the + or - button to update the count. You will be able to see the change in the count in real time!
 
 <p align="center">
-  <img src="http://g.recordit.co/wK5xKXIxzx.gif">
+  <img src="http://g.recordit.co/GSfcUQYUv4.gif">
 </p>
 
 
