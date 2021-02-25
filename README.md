@@ -14,6 +14,7 @@ JavaScript Basics project by Lorenzo Fiorucci - Realization of a counter using J
     </li>
     <li><a href="#Usage">Usage</a></li>
     <li><a href="#Authors">Authors</a></li>
+    <li><a href="#Authors">Acknowledgements</a></li>
   </ol>
 </details>
 
