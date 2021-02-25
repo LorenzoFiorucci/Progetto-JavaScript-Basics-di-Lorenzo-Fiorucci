@@ -11,5 +11,5 @@ There are no particular prerequisites or installation to do; the only thing is t
 
 ### Usage
 
-IMG/counter-screenshot.JPG
+![screen](IMG/counter-screenshot.JPG)
 
