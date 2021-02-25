@@ -16,10 +16,12 @@ The counter is initialized to the value 0. In a simple way clicking on the butto
 There are no particular prerequisites or installation to do; to run the program just launch the file index.html in any search engine. The only thing is that it might not work best on Internet Explorer search engine. For others (chrome, microsoft edge ecc..) it works correctly.
 
 ### Usage
+
+Once the program is launched, just press the + or - button to update the count. You will be able to see the change in the count in real time!
+
 <p align="center">
   <img src="http://g.recordit.co/wK5xKXIxzx.gif">
 </p>
-Once the program is launched, just press the + or - button to update the count. You will be able to see the change in the count in real time!
 
 
 ## Authors
