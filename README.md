@@ -1,2 +1,2 @@
 # Progetto-JavaScript-Basics-di-Lorenzo-Fiorucci
- Progetto JavaScript Basics di Lorenzo Fiorucci - Realizzazione di una contatore tramite Javascript
+JavaScript Basics project by Lorenzo Fiorucci - Realization of a counter using Javascript
