@@ -11,5 +11,5 @@ There are no particular prerequisites or installation to do; the only thing is t
 
 ### Usage
 
-![program image](../IMG/counter-screenshot.png)
+![program image](IMG/counter-screenshot.png)
 
