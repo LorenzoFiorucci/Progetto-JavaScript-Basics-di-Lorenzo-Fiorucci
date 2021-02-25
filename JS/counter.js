@@ -15,5 +15,5 @@ function minus(){
 }
 
 function updateCounter(){
-  countElement.innerHTML = "Il conteggio aggiornato è : "+count;
+  countElement.innerHTML = "The updated count is : "+count;
 }
