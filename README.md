@@ -11,3 +11,5 @@ There are no particular prerequisites or installation to do; the only thing is t
 
 ### Usage
 
+![screen](IMG/program-screenshot.JPG)
+
